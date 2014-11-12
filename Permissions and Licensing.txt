@@ -1,0 +1,149 @@
+Ars magica 2:
+Creator: Mithion
+Forum: http://www.minecraftforum.net/topic/2028696-ars-magica-2-164-version-112b-updated-jan-27/
+-------------------------------------------------------------------------------------------------------------------------------------------
+Applied Energistics:
+Creator: AlgorithmX2
+Website: http://ae1.ae-mod.info/
+-------------------------------------------------------------------------------------------------------------------------------------------
+Archimedes Ships:
+Awaiting Response
+-------------------------------------------------------------------------------------------------------------------------------------------
+Bibilio Craft:
+Creator: Nuchaz
+Website: www.bibliocraftmod.com
+-------------------------------------------------------------------------------------------------------------------------------------------
+BuildCraft:
+Creator: Space Toad
+Website: http://www.mod-buildcraft.com/
+-------------------------------------------------------------------------------------------------------------------------------------------
+Code Chicken Mods:
+Creator: Chicken Bones
+Forum: http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/
+-------------------------------------------------------------------------------------------------------------------------------------------
+CoFH Mods:
+Creator: Team CoFH
+Website: http://www.teamcofh.com/
+-------------------------------------------------------------------------------------------------------------------------------------------
+ComputerCraft:
+Creator: Dan200
+Website: http://www.computercraft.info/
+-------------------------------------------------------------------------------------------------------------------------------------------
+Damage Indicators:
+Creator: rich1051414
+Forum: http://www.minecraftforum.net/topic/1536685-172164forge-hit-splat-damage-indicators-v308-rpg-ui-and-damage-amount-mod/
+-------------------------------------------------------------------------------------------------------------------------------------------
+Dart Craft:
+Creator: BlueDart
+Forum: http://www.minecraftforum.net/topic/1686840-164-dartcraft-beta-0217/
+-------------------------------------------------------------------------------------------------------------------------------------------
+Deadly World:
+Awaiting Response
+-------------------------------------------------------------------------------------------------------------------------------------------
+Extra Utilities
+Creator: RWTema
+Forum: http://www.minecraftforum.net/topic/1776056-164forge-extra-utilities-v103a/
+-------------------------------------------------------------------------------------------------------------------------------------------
+Factorization:
+Creator: NeptunePink
+Forum: http://www.minecraftforum.net/topic/1351802-164-factorization-0834/
+-------------------------------------------------------------------------------------------------------------------------------------------
+Ichun Mods:
+Creator: Ichun
+Website: http://ichun.us/support/mod-packs/
+-------------------------------------------------------------------------------------------------------------------------------------------
+Flans Mod:
+Creator: James Flannery
+Website: http://flansmod.com/license
+-------------------------------------------------------------------------------------------------------------------------------------------
+Forestry:
+Creator: SirSengir
+Website: http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#license
+-------------------------------------------------------------------------------------------------------------------------------------------
+Glens Gasses Mod:
+Awaiting Response
+-------------------------------------------------------------------------------------------------------------------------------------------
+Grave Stone Mod:
+Creator: NightKosh
+Forum: http://www.minecraftforum.net/topic/1711328-164-smp-gravestone-mod-v271/
+-------------------------------------------------------------------------------------------------------------------------------------------
+ICBM Mod:
+Awaiting Response
+-------------------------------------------------------------------------------------------------------------------------------------------
+Industrial Craft 2:
+Creator: AlbLaka
+Website: http://forum.industrial-craft.net/index.php?page=Thread&threadID=7994
+-------------------------------------------------------------------------------------------------------------------------------------------
+Inventory Tweaks:
+Creator: Kobata
+Forum: http://www.minecraftforum.net/topic/1720872-162-inventory-tweaks-156-august-21/#Sup
+-------------------------------------------------------------------------------------------------------------------------------------------
+Iron Chest:
+Creator: CPW
+Forum: http://www.minecraftforum.net/topic/981855-15-and-up-forge-universalironchests-50-minecraft-15-update/
+-------------------------------------------------------------------------------------------------------------------------------------------
+Little Blocks:
+Creator: Slime Void
+Website: http://slimevoid.net/
+-------------------------------------------------------------------------------------------------------------------------------------------
+MFFS:
+Awaiting Response
+-------------------------------------------------------------------------------------------------------------------------------------------
+MineFactory Reloaded:
+Creator: SkyBoy026
+Forum: http://www.minecraftforum.net/topic/2016680-162164-powercrystals-mods-minefactoryreloaded-powercrystalscore-and-netherores-updated-mfr-275-released/
+-------------------------------------------------------------------------------------------------------------------------------------------
+MinePainter:
+Creator: HyperCross
+Website: https://github.com/hypercross/hx/wiki/MinePainter
+-------------------------------------------------------------------------------------------------------------------------------------------
+Obsidi Plates:
+Creator: Myrathi
+Forum: http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/
+-------------------------------------------------------------------------------------------------------------------------------------------
+Open Blocks:
+Creator: Open Mods
+Forum: http://www.minecraftforum.net/topic/1941514-16x-openblocks-125/
+-------------------------------------------------------------------------------------------------------------------------------------------
+Project Red:
+Creator: Mr_TJP
+Forum: http://www.minecraftforum.net/topic/1885652-164forge-multipart-projectred-v43226-372014/
+-------------------------------------------------------------------------------------------------------------------------------------------
+RailCraft
+Creator: CovertJaguar
+Forum: http://railcraft.wikispaces.com/License+%28Info%29
+-------------------------------------------------------------------------------------------------------------------------------------------
+Reliquary
+Creator: TheMike
+Forum: http://www.minecraftforum.net/topic/2237899-164v112-reliquary/
+-------------------------------------------------------------------------------------------------------------------------------------------
+Rogue Like Dungeons:
+Creator: Greymerk
+Forum: http://www.minecraftforum.net/topic/1874883-164roguelike-dungeonsv130/
+-------------------------------------------------------------------------------------------------------------------------------------------
+Sort Fix:
+Creator: LexManos
+Forum: http://www.minecraftforum.net/topic/1659892-164tinkers-construct/page__st__7380
+-------------------------------------------------------------------------------------------------------------------------------------------
+Tinkers Contruct:
+Creator: mDiyo
+Forum: http://www.minecraftforum.net/topic/1659892-164tinkers-construct/
+-------------------------------------------------------------------------------------------------------------------------------------------
+Thaumcraft
+Creator: Azanor
+Forum: http://www.minecraftforum.net/topic/2011841-thaumcraft-410g-updated-1032014/
+-------------------------------------------------------------------------------------------------------------------------------------------
+Twilight Forest:
+Creator: Benimatic
+Forum: http://www.minecraftforum.net/topic/561673-172-the-twilight-forest-v203-updated-to-minecraft-17/
+-------------------------------------------------------------------------------------------------------------------------------------------
+Universal Electricity:
+Awaiting Response
+-------------------------------------------------------------------------------------------------------------------------------------------
+Zombie Awareness:
+Creator: Corosus
+Forum: http://coros.us/
+-------------------------------------------------------------------------------------------------------------------------------------------
+Map Writer:
+Creator: MapWriter
+Forum: http://www.minecraftforum.net/topic/1570989-172-forge-mapwriter-an-open-source-mini-map/
